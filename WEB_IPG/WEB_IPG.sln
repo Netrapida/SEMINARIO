@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEB_IPG", "WEB_IPG\WEB_IPG.csproj", "{4DB86561-9AAF-433D-9AFC-91343EBC92D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DB86561-9AAF-433D-9AFC-91343EBC92D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB86561-9AAF-433D-9AFC-91343EBC92D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB86561-9AAF-433D-9AFC-91343EBC92D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB86561-9AAF-433D-9AFC-91343EBC92D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E893BEB-9509-4709-9F39-336C332B4B9D}
+	EndGlobalSection
+EndGlobal
